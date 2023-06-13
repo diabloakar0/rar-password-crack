@@ -42,12 +42,3 @@ If you have any feedback, please contact us at support@akarguard.net.
 Contributions are always welcome!
 
 Please follow the 'code of conduct' of this project.
-## Yükleme 
-
-benim-projem'i npm kullanarak yükleyin
-
-```bash 
-  npm install my-project
-  cd my-project
-```
-    
